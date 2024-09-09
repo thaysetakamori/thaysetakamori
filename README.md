@@ -19,4 +19,4 @@ Me chamo Thayse Takamori e atuei por 10 anos na área de design. Mas, como boa c
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171515?style=for-the-badge&logo=postgresql&logoColor=3670A0)
 ![MongoDB](https://img.shields.io/badge/MongoDB-171515.svg?style=for-the-badge&logo=mongodb&logoColor=234ea94)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaysetakamori&layout=compact&bg_color=171515&border_color=000&title_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaysetakamori&layout=compact&bg_color=171515&border_color=171515&title_color=ffffff&text_color=ffffff)
