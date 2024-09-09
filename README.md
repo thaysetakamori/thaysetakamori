@@ -5,8 +5,8 @@ Me chamo Thayse Takamori e atuei por 10 anos na área de design. Mas, como boa c
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-171515?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/thaysetakamori)
-[![Gmail](https://img.shields.io/badge/Gmail-171515?style=for-the-badge&logo=gmail&logoColor=#db4a39)](mailto:thayseavl@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-171515?style=for-the-badge&logo=instagram&logoColor=#E1306C)](https://www.instagram.com/thaysetakamori/)
+[![Gmail](https://img.shields.io/badge/Gmail-171515?style=for-the-badge&logo=gmail&logoColor=#db4a39)](mailto:thayseavl@gmail.com)
 
 ### Tech Stack
 
