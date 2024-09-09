@@ -10,7 +10,7 @@ Me chamo Thayse Takamori e atuei por 10 anos na área de design. Mas, como boa c
 
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/python-171515?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-171515?style=for-the-badge&logo=python&logoColor=3670A0)
 ![HTML5](https://img.shields.io/badge/HTML-171515?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-171515?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-171515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
