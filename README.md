@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Me chamo Thayse Takamori e atuei por 10 anos na área de design. Mas, como boa curiosa e apaixonada por tecnologia, decidi trocar o Photoshop pelos códigos e estou em plena transição para a área de TI, cursando Análise e Desenvolvimento de Sistemas. Minha meta é construir uma carreira sólida em tecnologia. Sou comprometida com o aprendizado contínuo e inovação, buscando sempre agregar valor através do meu trabalho.
+Me chamo Thayse Takamori e atuei por 10 anos na área de design. Mas, como boa curiosa e apaixonada por tecnologia, decidi trocar o Photoshop pelos códigos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Sou comprometida com o aprendizado contínuo e inovação e estou sempre em busca de desafios para expandir meus conhecimentos.
 
 ### Connect with me
 
